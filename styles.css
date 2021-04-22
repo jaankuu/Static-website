@@ -1,0 +1,19 @@
+.navBar {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    border: 2px turquoise;
+
+}
+
+li {
+    font-size:20px;
+    list-style:none;
+    line-height: 40px;
+}
+
+li:hover {
+    color: #40e0d0;
+    font-style: bold;
+
+}
